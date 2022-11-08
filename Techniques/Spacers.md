@@ -80,7 +80,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Details
 
-An empty svg image is placed on either 
+An empty svg image is placed on either of  
+the content area which limits said area.
+
+Note that special pages like a repositories  
+README have different inherent page widths.
 
 <br>
 
