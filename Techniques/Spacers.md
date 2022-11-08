@@ -11,14 +11,15 @@
 *like with a spacing of `200px` on either side.*
 
 <br>
+<br>
 
 <img
-	height = 170
+	height = 220
     width = 200
     align = left
     src = '../Resources/Space.svg'
 /><img
-	height = 170
+	height = 220
 	width = 200
     align = right
     src = '../Resources/Space.svg'
@@ -29,9 +30,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 <br>
+<br>
 
-> NOTE This is not the same as 'justify' for text alignment, it only limits the area.
+<div align = center>
 
+> **Note** This is not the same as 'justify' for text alignment, it only limits the area.
+
+</div>
+	
 <br>
 <br>
 
@@ -45,12 +51,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```Markdown
 <img
-	height = 170
-    width = 200
+	height = 220
+    width = 220
     align = left
     src = '../Resources/Space.svg'
 /><img
-	height = 170
+	height = 200
 	width = 200
     align = right
     src = '../Resources/Space.svg'
