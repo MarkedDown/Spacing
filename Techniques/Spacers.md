@@ -51,13 +51,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```Markdown
 <img
-	height = 220
+    height = 220
     width = 220
     align = left
     src = '../Resources/Space.svg'
 /><img
-	height = 200
-	width = 200
+    height = 200
+    width = 200
     align = right
     src = '../Resources/Space.svg'
 /><div align = left>
