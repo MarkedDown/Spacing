@@ -101,6 +101,10 @@ the content area which limits said area.
 Note that special pages like a repositories  
 README have different inherent page widths.
 
+You will have to find you own height by, for  
+example using the devtools ( **F12** ) or just  
+guessing and checking the preview.
+
 <br>
 
 <!----------------------------------------------------------------------------->
