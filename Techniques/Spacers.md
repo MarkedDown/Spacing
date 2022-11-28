@@ -56,7 +56,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     align = left
     src = '../Resources/Space.svg'
 /><img
-    height = 200
+    height = 220
     width = 200
     align = right
     src = '../Resources/Space.svg'
