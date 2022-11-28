@@ -47,28 +47,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <br>
 
-### Spacers.md
-
-```html
-<img
-    height = 220
-    width = 220
-    align = left
-    src = '../Resources/Space.svg'
-/><img
-    height = 220
-    width = 200
-    align = right
-    src = '../Resources/Space.svg'
-/><div align = left>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Molestie nunc non blandit massa enim nec dui. Vitae congue mauris rhoncus aenean vel. Magna eget est lorem ipsum dolor. Eget magna fermentum iaculis eu. A erat nam at lectus urna duis convallis convallis. Fames ac turpis egestas integer eget. Tellus pellentesque eu tincidunt tortor aliquam. Risus sed vulputate odio ut. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Eget est lorem ipsum dolor sit. Consequat ac felis donec et odio pellentesque diam. Tellus in metus vulputate eu scelerisque felis.
-
-</div>
-```
-
-<br>
-
 ### Template
 
 ```html
