@@ -15,12 +15,12 @@
 
 <img
 	height = 220
-    width = 200
+    width = 20%
     align = left
     src = '../Resources/Space.svg'
 /><img
 	height = 220
-	width = 200
+	width = 20%
     align = right
     src = '../Resources/Space.svg'
 /><div align = left>
@@ -50,8 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Template
 
 ```html
-<img height = 220 width = 220 align = left  src = '../Resources/Space.svg' >
-<img height = 200 width = 200 align = right src = '../Resources/Space.svg' >
+<img height = 220 width = 20% align = left  src = '../Resources/Space.svg' >
+<img height = 220 width = 20% align = right src = '../Resources/Space.svg' >
 <div align = left>
 
 <!-- Content Area, don't remove the above and below  -->
